@@ -1,3 +1,2 @@
 # Coffee-Machine
-Coffee Machine 
-Java Core
+Сreated with Java Core
